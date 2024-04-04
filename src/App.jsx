@@ -80,6 +80,12 @@ function App() {
               <p className='font-medium text-[16px] text-[#61677D]'>Google</p>
             </div>
           </div>
+          {/* Devider */}
+          <div className="flex items-center justify-center py-4">
+            <div className="border-t border-[#E0E5EC] mt-1 w-full"></div> 
+            <div className="mx-2 text-[14px]">Or</div>
+            <div className="border-t border-[#E0E5EC] mt-1 w-full"></div>
+          </div>
         </div>
       </div>
     </>
